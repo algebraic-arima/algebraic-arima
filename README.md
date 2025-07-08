@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: lifangke@sjtu.edu.cn
-- 🔭 Personal Website: [venilallemon](www.venillalemon.top)
+- 🔭 Personal Website: [venilallemon](http://www.venillalemon.top)
 
