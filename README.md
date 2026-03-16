@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am Fangke Li, a junior at ACM Honor Class, SJTU.
 
-
+- 🔭 I’m currently working on lattice problems and reductions
 - 📫 How to reach me: lifangke@sjtu.edu.cn
-- 🔭 Personal Website: [venilallemon](http://www.venillalemon.top)
+- 🔭 Personal Website: [Mike Li's Homepage](https://algebraic-arima.github.io/)
 
