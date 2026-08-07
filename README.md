@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--
-**algebraic-arima/algebraic-arima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,5 +17,5 @@ I am Fangke Li, a junior at ACM Honor Class, SJTU.
 
 - 🔭 I’m currently working on lattice problems and reductions
 - 📫 How to reach me: lifangke@sjtu.edu.cn
-- 🔭 Personal Website: [Mike Li's Homepage](https://algebraic-arima.github.io/)
+- 🔭 Personal Website: [Mike Li's Homepage](https://venillalemon.github.io/)
 
